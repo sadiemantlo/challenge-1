@@ -21,6 +21,7 @@ body {
     font-size: 48px;
 }
 
+/* styling for navigation links in header */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -62,6 +63,7 @@ p {
     margin-left: 20px;
 }
 
+/* positioning for images in left section */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -126,6 +128,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
